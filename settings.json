@@ -1,0 +1,38 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "Ricty Diminished, Consolas, 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "on",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingOvertype": "always",
+    "emmet.variables": {
+        "lang": "ja"
+    },
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "workbench.colorTheme": "New Moon",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "cSpell.userWords": [
+        "fadein"
+    ],
+    "files.autoSave": "off",
+    //CSScomb
+    "csscomb.formatOnSave": true,
+    "csscomb.preset": "~/.vscode-insiders/mycsscomb.json",
+    "csscomb.syntaxAssociations": {
+        "postcss": "scss"
+    },
+    "autoprefixer.grid": "autoplace",
+    "autoprefixer.formatOnSave": true,
+    "autoprefixer.browsers": [
+        "> 0.1%",
+        "last 3 versions",
+        "ie >= 8",
+        "Firefox ESR",
+    ]
+}
