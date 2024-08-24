@@ -106,7 +106,7 @@
 	"dependencies": {
 		"config-profiler": "2.0.3",
 		"csscomb": "4.3.0",
-		"micromatch": "3.1.10",
+		"micromatch": "4.0.8",
 		"tslib": "1.10.0"
 	},
 	"scripts": {
